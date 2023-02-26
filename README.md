@@ -6,10 +6,9 @@ In short, it is the go-to website for anyone who wants information related to co
 
 Created By:
 
-### Tejas Tapas -
-Github Id: Tejas1510
+### Gufran ahmad -
+Github Id: Idrishi786
 
-### Rishabh Rathi - 
 Website: [gufran idrishi](http://www.gufranidrishi.co/)\
 Github Id: [idrishi786](https://github.com/idrishi786)\
 LinkedIn: [gufran ahmad](https://www.linkedin.com/in/gufranahmad/)
