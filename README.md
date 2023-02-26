@@ -11,4 +11,4 @@ Github Id: Idrishi786
 
 Website: [gufran idrishi](http://www.gufranidrishi.co/)\
 Github Id: [idrishi786](https://github.com/idrishi786)\
-LinkedIn: [gufran ahmad](https://www.linkedin.com/in/gufranahmad/)
+LinkedIn: [gufran ahmad](https://www.linkedin.com/in/gufran-ahmad-2714431a2)
